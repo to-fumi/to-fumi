@@ -37,5 +37,5 @@ My experience includes backend CRUD implementations, external API integrations, 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=to-fumi&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=to-fumi&layout=compact&theme=dark)
