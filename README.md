@@ -35,6 +35,7 @@ My experience includes backend CRUD implementations, external API integrations, 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=to-fumi&show_icons=true&theme=dark)
