@@ -16,6 +16,10 @@ My experience includes backend CRUD implementations, external API integrations, 
 <a href="https://www.credly.com/badges/4936ed37-2713-4fbb-8640-179bf68cc888/public_url">
   <img src="https://images.credly.com/size/220x220/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS" style="width: 120px; height: 120px;">
 </a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/5d689922-2cea-4e31-b445-9472c03b553f/public_url">
+  <img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" style="width: 120px; height: 120px;">
+</a>
 </div>
 
 ## Tech Stack
