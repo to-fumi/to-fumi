@@ -5,6 +5,10 @@ My experience includes backend CRUD implementations, external API integrations, 
 ## Certifications
 
 <div style="display: flex; gap: 10px; align-items: center;">
+<a href="https://www.credly.com/badges/4b4606bd-ae63-4f94-be8f-2bd423909613/public_url">
+  <img src="https://images.credly.com/size/680x680/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" style="width: 120px; height: 120px;">
+</a>
+&nbsp;&nbsp;
 <a href="https://www.credly.com/badges/1559d0f0-d684-4832-ba80-3e6f9dbf1b43/public_url">
   <img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD" style="width: 120px; height: 120px;">
 </a>
@@ -19,6 +23,10 @@ My experience includes backend CRUD implementations, external API integrations, 
 &nbsp;&nbsp;
 <a href="https://www.credly.com/badges/5d689922-2cea-4e31-b445-9472c03b553f/public_url">
   <img src="https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA" style="width: 120px; height: 120px;">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.credly.com/badges/6f7bcd0d-2b63-4ef1-8c94-2a3e29e39652/public_url">
+  <img src="https://images.credly.com/size/680x680/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA" style="width: 120px; height: 120px;">
 </a>
 </div>
 
