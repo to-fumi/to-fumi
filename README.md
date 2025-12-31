@@ -1,6 +1,5 @@
 ## About Me
-I'm a Software Engineer with over 2 years of experience working as a backend developer at a tech company through secondment.
-My experience includes backend CRUD implementations, external API integrations, library development, and authentication feature implementations. I have also contributed to improving security standards. Currently, I'm working on performance optimization in production environments to improve system efficiency and reliability.
+Hello, I'm Fumiya.
 
 ## Certifications
 
