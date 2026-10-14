@@ -1,5 +1,7 @@
 # to-fumi
 
+## Certifications
+
 <p>
   <a href="https://www.credly.com/badges/beb351ac-c48c-43f3-b174-d1f964c514c2/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" width="65"></a>
   <a href="https://www.credly.com/badges/4b4606bd-ae63-4f94-be8f-2bd423909613/public_url"><img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" title="Kubestronaut" width="65"></a>
@@ -8,4 +10,10 @@
   <a href="https://www.credly.com/badges/4936ed37-2713-4fbb-8640-179bf68cc888/public_url"><img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" alt="CKS: Certified Kubernetes Security Specialist" title="CKS: Certified Kubernetes Security Specialist" width="65"></a>
   <a href="https://www.credly.com/badges/5d689922-2cea-4e31-b445-9472c03b553f/public_url"><img src="https://images.credly.com/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" title="KCNA: Kubernetes and Cloud Native Associate" width="65"></a>
   <a href="https://www.credly.com/badges/6f7bcd0d-2b63-4ef1-8c94-2a3e29e39652/public_url"><img src="https://images.credly.com/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png" alt="KCSA: Kubernetes and Cloud Native Security Associate" title="KCSA: Kubernetes and Cloud Native Security Associate" width="65"></a>
+</p>
+
+## Tech Stack
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,py,aws,kubernetes,terraform" alt="Tech Stack"></a>
 </p>
