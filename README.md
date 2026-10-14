@@ -15,5 +15,5 @@
 ## Tech Stack
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,py,aws,kubernetes,terraform" alt="Tech Stack"></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kotlin,py,postgres,aws,kubernetes,terraform" alt="Tech Stack"></a>
 </p>
