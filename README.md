@@ -2,8 +2,16 @@
 
 ## Certifications
 
+### AWS
+
 <p>
   <a href="https://www.credly.com/badges/beb351ac-c48c-43f3-b174-d1f964c514c2/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" title="AWS Certified Solutions Architect – Associate" width="65"></a>
+  <a href="https://www.credly.com/badges/18c780bb-6a41-4b2b-93ef-7afca6299c25/public_url"><img src="https://images.credly.com/images/88a6405e-0f26-442a-95ed-f9b9db4c857e/blob" alt="AWS Certified CloudOps Engineer – Associate" title="AWS Certified CloudOps Engineer – Associate" width="65"></a>
+</p>
+
+### CNCF
+
+<p>
   <a href="https://www.credly.com/badges/4b4606bd-ae63-4f94-be8f-2bd423909613/public_url"><img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" alt="Kubestronaut" title="Kubestronaut" width="65"></a>
   <a href="https://www.credly.com/badges/dc8c40e3-936b-4457-be2f-ebd9bdc168f3/public_url"><img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" alt="CKA: Certified Kubernetes Administrator" title="CKA: Certified Kubernetes Administrator" width="65"></a>
   <a href="https://www.credly.com/badges/1559d0f0-d684-4832-ba80-3e6f9dbf1b43/public_url"><img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" title="CKAD: Certified Kubernetes Application Developer" width="65"></a>
